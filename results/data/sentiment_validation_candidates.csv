@@ -1,0 +1,61 @@
+sample_id,sample_stratum,date,trading_date,ticker,sector,text_raw,vader_compound,vader_class,vader_neg,vader_neu,vader_pos
+SV001,negative,2020-06-16,2020-06-16,T,Comm,"AT&T plans to cut thousands of jobs, close stores: Union",-0.2732,negative,0.189,0.811,0.0
+SV002,negative,2020-09-10,2020-09-10,T,Comm,"AT&T Drops Lowest-Priced DirecTV Option, but There's a Method to the Madness",-0.5927,negative,0.278,0.722,0.0
+SV003,negative,2020-02-24,2020-02-24,SBUX,Consumer,Shares of several restaurant companies are trading lower amid continued spread of coronavirus including notable upticks in Iran and Italy. NOTE: The virus has raised fear of a global economic slowdown.,-0.4939,negative,0.156,0.78,0.064
+SV004,negative,2023-09-20,2023-09-20,DIS,Consumer,Disney CEO says company will 'quiet the noise' in culture wars - analyst,-0.5574,negative,0.247,0.753,0.0
+SV005,negative,2022-08-13,2022-08-15,OXY,Energy,3 Warren Buffett Stocks That Are Dirt Cheap: Are They Buys?,-0.34,negative,0.211,0.789,0.0
+SV006,negative,2023-03-01,2023-03-01,XOM,Energy,"Exxon starts new crude unit at Beaumont, Texas refinery -sources",-0.5719,negative,0.291,0.709,0.0
+SV007,negative,2022-01-19,2022-01-19,GS,Financials,MORNING BID-Goldman Sachs adds another layer of stress,-0.4215,negative,0.286,0.714,0.0
+SV008,negative,2023-04-02,2023-04-03,USB,Financials,3 Warren Buffett Stocks That Are Screaming Buys in April,-0.3818,negative,0.245,0.755,0.0
+SV009,negative,2021-04-03,2021-04-05,ABBV,Healthcare,11 Words From President Biden That Frighten Big Pharma,-0.34,negative,0.231,0.769,0.0
+SV010,negative,2023-10-12,2023-10-12,ABBV,Healthcare,Billionaire Paul Tudor Jones Predicts a Recession in Early 2024. Here's What It Could Mean for Stocks.,-0.4215,negative,0.157,0.843,0.0
+SV011,negative,2020-11-09,2020-11-09,BA,Industrials,European Union Imposes New Tariffs on Boeing Jets,-0.1027,negative,0.167,0.833,0.0
+SV012,negative,2021-12-28,2021-12-28,BA,Industrials,US STOCKS-S&P 500 closes lower after four-day rally to record high,-0.296,negative,0.18,0.82,0.0
+SV013,negative,2020-03-16,2020-03-16,NEM,Materials,"Dow Jones Slumps 2,792 Points To New Low; These Growth Stocks Buck Bear Market Drop",-0.1531,negative,0.223,0.638,0.138
+SV014,negative,2023-09-14,2023-09-14,NEM,Materials,"Global silver demand to fall 9.4% in 2023, Chile's Cochilco says",-0.128,negative,0.13,0.87,0.0
+SV015,negative,2020-03-31,2020-03-31,AMT,RealEstate,Shares of several real estate companies are trading lower despite market strength. NOTE: The lending industry has been negatively impacted by macro disruption amid coronavirus outbreak.,-0.6283,negative,0.232,0.698,0.07
+SV016,negative,2022-11-22,2022-11-22,AMT,RealEstate,Office REITs are Facing Trouble. Consider This REIT Instead,-0.4019,negative,0.252,0.748,0.0
+SV017,negative,2021-04-29,2021-04-29,INTC,Tech,ANALYSIS-Chip shortages expose Achilles' heel of Germany's recovery,-0.296,negative,0.348,0.652,0.0
+SV018,negative,2023-05-29,2023-05-30,AMD,Tech,Nvidia to build Israeli supercomputer as AI demand soars,-0.128,negative,0.158,0.842,0.0
+SV019,negative,2021-09-28,2021-09-28,NEE,Utilities,"Tariffs, seizures expose U.S. solar industry's vulnerability to imports",-0.3612,negative,0.333,0.667,0.0
+SV020,negative,2022-08-05,2022-08-05,D,Utilities,"MDU Resources (MDU) Lags Q2 Earnings Estimates, Cuts 2022 EPS",-0.5719,negative,0.37,0.63,0.0
+SV021,positive,2021-05-21,2021-05-21,T,Comm,"After Hours Most Active for May 21, 2021 : ITUB, T, AAPL, FOLD, VIPS, BAC, F, HBAN, NLSN, MSFT, HST, DBX",0.4576,positive,0.0,0.864,0.136
+SV022,positive,2022-01-21,2022-01-21,T,Comm,Why AT&T (T) is a Top Momentum Stock for the Long-Term,0.2023,positive,0.0,0.833,0.167
+SV023,positive,2020-08-11,2020-08-11,SBUX,Consumer,Why Investing Is Like College Football,0.3612,positive,0.0,0.667,0.333
+SV024,positive,2022-03-16,2022-03-16,DIS,Consumer,Amazon (AMZN) Receives Approval From EU for MGM Acquisition,0.5859,positive,0.0,0.593,0.407
+SV025,positive,2021-03-01,2021-03-01,CVX,Energy,A Compelling Oil Play With A 5% Dividend Yield,0.5106,positive,0.0,0.538,0.462
+SV026,positive,2023-11-23,2023-11-24,CVX,Energy,"COLUMN-Carbon capture and storage hopes are pipe dreams, for now - Russell",0.6705,positive,0.0,0.621,0.379
+SV027,positive,2022-01-28,2022-01-28,V,Financials,US STOCKS-Futures fall as rate hike worries eclipse strong Apple results,0.128,positive,0.185,0.596,0.219
+SV028,positive,2023-06-29,2023-06-29,GS,Financials,Banks to be Conservative Despite Passing 2023 Stress Test,0.3252,positive,0.0,0.774,0.226
+SV029,positive,2022-09-23,2022-09-23,MRK,Healthcare,Merck's (MRK) Stock Up on Januvia Patent Win Against Viatris,0.5859,positive,0.0,0.703,0.297
+SV030,positive,2023-07-03,2023-07-03,ABBV,Healthcare,3 Magnificent Dividend Stocks to Buy Hand Over Fist in July,0.7964,positive,0.0,0.53,0.47
+SV031,positive,2020-01-15,2020-01-15,BA,Industrials,2 Top Transportation Stocks to Buy in January,0.2023,positive,0.0,0.769,0.231
+SV032,positive,2023-07-06,2023-07-06,UPS,Industrials,Interesting UPS Put And Call Options For August 25th,0.4019,positive,0.0,0.748,0.252
+SV033,positive,2020-05-26,2020-05-26,NEM,Materials,Shares of several precious metals companies are trading lower as equities gain on coroanvirus vaccine optimism and a pickup in US economic activity amid eased lockdown restrictions.,0.9153,positive,0.059,0.538,0.403
+SV034,positive,2021-02-16,2021-02-16,NEM,Materials,These Gold Stocks Could Serve as an Effective Macro Hedge,0.4767,positive,0.0,0.744,0.256
+SV035,positive,2020-02-29,2020-03-02,O,RealEstate,3 Monthly Dividend Stocks You Won't Want to Miss,0.0572,positive,0.141,0.692,0.167
+SV036,positive,2022-05-11,2022-05-11,CCI,RealEstate,Want to Bring Home the Bacon? Invest in REITs,0.0772,positive,0.0,0.86,0.14
+SV037,positive,2022-10-07,2022-10-07,AMD,Tech,"Pre-Market Most Active for Oct 7, 2022 : TLRY, TQQQ, SQQQ, CGC, TWTR, LI, AMD, NIO, ATCO, CCL, CS, F",0.4576,positive,0.0,0.85,0.15
+SV038,positive,2023-01-12,2023-01-12,INTC,Tech,My Top Tech IPO to Buy in January,0.2023,positive,0.0,0.795,0.205
+SV039,positive,2021-12-03,2021-12-03,AEP,Utilities,3 Utility Stocks for Safe Income,0.4404,positive,0.0,0.58,0.42
+SV040,positive,2023-10-10,2023-10-10,NEE,Utilities,"Why Clean Energy Stocks Lucid Motors, Plug Power, and NextEra Energy Partners Surged Today",0.7096,positive,0.0,0.615,0.385
+SV041,zero_score,2020-03-12,2020-03-12,T,Comm,RIP to the Longest Bull Market in History (2009-2020),0.0,neutral,0.0,1.0,0.0
+SV042,zero_score,2021-08-18,2021-08-18,TTWO,Comm,"Notable Wednesday Option Activity: CBOE, TTWO, CCL",0.0,neutral,0.0,1.0,0.0
+SV043,zero_score,2020-05-05,2020-05-05,DIS,Consumer,"The Corona Effect, Part '",0.0,neutral,0.0,1.0,0.0
+SV044,zero_score,2020-10-03,2020-10-05,DIS,Consumer,3 Dates for Investors to Circle in October,0.0,neutral,0.0,1.0,0.0
+SV045,zero_score,2021-02-02,2021-02-02,COP,Energy,ConocoPhillips Q4 20 Earnings Conference Call At 12:00 PM ET,0.0,neutral,0.0,1.0,0.0
+SV046,zero_score,2022-07-13,2022-07-13,CVX,Energy,Warren Buffett Has Bet $279 Billion on These 10 Stocks,0.0,neutral,0.0,1.0,0.0
+SV047,zero_score,2022-08-30,2022-08-30,V,Financials,"The Zacks Analyst Blog Highlights Tesla, Exxon Mobil, Marriott International, Humana and Visa",0.0,neutral,0.0,1.0,0.0
+SV048,zero_score,2023-07-04,2023-07-05,V,Financials,Here's Why You Should Hold on to Fidelity National (FIS) Stock,0.0,neutral,0.0,1.0,0.0
+SV049,zero_score,2020-04-29,2020-04-29,GILD,Healthcare,NIH Reports Median Time To Recovery Was 11 Days For Patients Treated With Remdesivir Compared With 15 Days For Those Who Received Placebo,0.0,neutral,0.0,1.0,0.0
+SV050,zero_score,2022-04-06,2022-04-06,AMGN,Healthcare,"Nasdaq 100 Movers: DDOG, AMGN",0.0,neutral,0.0,1.0,0.0
+SV051,zero_score,2021-02-26,2021-02-26,BA,Industrials,EXCLUSIVE-Biden team considering a halt to 'offensive' arms sales for Saudis,0.0,neutral,0.0,1.0,0.0
+SV052,zero_score,2023-12-05,2023-12-05,GE,Industrials,Here's Why Investors Should Invest in ITT Stock Right Now,0.0,neutral,0.0,1.0,0.0
+SV053,zero_score,2020-02-19,2020-02-19,SHW,Materials,"Daily Dividend Report: SHW,ADI,WM,LEG,NAVI",0.0,neutral,0.0,1.0,0.0
+SV054,zero_score,2023-09-05,2023-09-05,NUE,Materials,FOCUS-Inside Cleveland-Cliffs' bid to keep U.S. blast furnaces smelting,0.0,neutral,0.0,1.0,0.0
+SV055,zero_score,2020-01-15,2020-01-15,AMT,RealEstate,"Elefante Mark B Buys American Tower Corp, UnitedHealth Group Inc, Becton, Dickinson and Co",0.0,neutral,0.0,1.0,0.0
+SV056,zero_score,2022-05-30,2022-05-31,PLD,RealEstate,REITs vs. Rental Property: Here's Which Strategy Has Made Me More Money,0.0,neutral,0.0,1.0,0.0
+SV057,zero_score,2022-05-26,2022-05-26,AMD,Tech,Thursday's ETF with Unusual Volume: CRBN,0.0,neutral,0.0,1.0,0.0
+SV058,zero_score,2023-08-30,2023-08-30,QCOM,Tech,Prediction: AI Will Make or Break Your Portfolio in the Next Decade,0.0,neutral,0.0,1.0,0.0
+SV059,zero_score,2022-06-15,2022-06-15,DUK,Utilities,FirstEnergy (FE) to Install Charging Stations Under EV Driven,0.0,neutral,0.0,1.0,0.0
+SV060,zero_score,2022-08-02,2022-08-02,NEE,Utilities,Equitrans to complete WV-VA Mountain Valley natgas pipe in H2 2023,0.0,neutral,0.0,1.0,0.0

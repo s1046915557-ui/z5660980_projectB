@@ -1,0 +1,31 @@
+sample_id,approved_label,review_reason
+SH001,neutral,deal impact not specified
+SH002,negative,carcinogen warning threatens diet drinks
+SH003,negative,weaker oil demand and lower prices
+SH004,negative,$1bn settlement and scandal costs
+SH005,neutral,trial concerns Regeneron and Sanofi
+SH006,negative,major holder reduced GE stake
+SH007,neutral,bankruptcy concerns another company
+SH008,neutral,headline concerns Global Net Lease
+SH009,neutral,broad market decline; not ADBE-specific
+SH010,positive,mapped solar stock framed favourably
+SH011,positive,mapped stock presented as a top buy
+SH012,positive,bullish reversal and optimism
+SH013,positive,mapped stock expected to keep soaring
+SH014,neutral,comparison does not reveal the winner
+SH015,neutral,sector roundup without stated direction
+SH016,negative,investor pressure over hazardous substances
+SH017,neutral,report roundup without stated direction
+SH018,negative,recent insider share sale
+SH019,neutral,index futures headline; not NVDA-specific
+SH020,positive,earnings and revenue beat estimates
+SH021,neutral,earnings list does not include AT&T
+SH022,neutral,"headline concerns adidas, not Nike"
+SH023,neutral,option activity direction unspecified
+SH024,neutral,mover direction not stated
+SH025,neutral,multi-company blog with no direction
+SH026,neutral,Moderna discussion; not 3M-specific
+SH027,neutral,Dow index move; not Dow Inc-specific
+SH028,positive,mapped REIT presented as an income buy
+SH029,neutral,headline concerns Apple hardware
+SH030,neutral,ETF inflows; no direct NEE implication

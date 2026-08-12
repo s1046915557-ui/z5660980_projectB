@@ -1,0 +1,61 @@
+sample_id,approved_label,error_type,review_reason
+SV001,negative,correct,job cuts and store closures
+SV002,neutral,context_error,mixed change with stated rationale
+SV003,negative,correct,shares lower and slowdown fears
+SV004,neutral,ambiguous,no clear financial consequence
+SV005,positive,finance_lexicon_gap,value and buy recommendation
+SV006,positive,finance_lexicon_gap,new refinery unit suggests expansion
+SV007,negative,correct,additional market stress
+SV008,positive,finance_lexicon_gap,strong buy recommendation
+SV009,negative,correct,policy threat to big pharma
+SV010,neutral,target_mismatch,broad recession headline; not ABBV-specific
+SV011,negative,correct,new tariffs on Boeing jets
+SV012,neutral,target_mismatch,broad index move; not BA-specific
+SV013,neutral,target_mismatch,broad market headline; NEM not named
+SV014,negative,correct,falling silver demand
+SV015,negative,correct,shares lower and lending disruption
+SV016,positive,context_error,contrast recommends this REIT instead
+SV017,negative,correct,chip shortage and recovery weakness
+SV018,neutral,target_mismatch,"headline concerns Nvidia, not AMD"
+SV019,negative,correct,solar import vulnerability
+SV020,neutral,target_mismatch,"headline concerns MDU, not ticker D"
+SV021,neutral,target_mismatch,activity list; no direction for T
+SV022,positive,correct,top long-term momentum stock
+SV023,neutral,target_mismatch,generic analogy; no SBUX signal
+SV024,neutral,target_mismatch,Amazon-MGM deal; not Disney-specific
+SV025,positive,correct,compelling play and dividend yield
+SV026,negative,context_error,pipe dreams signals failed expectations
+SV027,neutral,target_mismatch,broad futures move; not Visa-specific
+SV028,neutral,context_error,mixed: passed test but conservative
+SV029,positive,correct,stock up after patent win
+SV030,positive,correct,strong dividend-stock buy recommendation
+SV031,positive,correct,top transportation stock to buy
+SV032,neutral,ambiguous,options activity without direction
+SV033,negative,context_error,target shares trading lower
+SV034,positive,correct,effective macro hedge
+SV035,positive,correct,monthly dividend stock recommendation
+SV036,positive,correct,explicit REIT investment recommendation
+SV037,neutral,target_mismatch,activity list; no AMD direction
+SV038,neutral,target_mismatch,IPO recommendation; not Intel
+SV039,positive,correct,safe-income utility recommendation
+SV040,positive,correct,clean-energy stocks surged
+SV041,neutral,target_mismatch,broad market regime; not T-specific
+SV042,neutral,correct,option activity without direction
+SV043,neutral,ambiguous,truncated and unclear headline
+SV044,neutral,correct,event dates only; no direction
+SV045,neutral,correct,conference-call schedule only
+SV046,positive,finance_lexicon_gap,large Buffett investment endorsement
+SV047,neutral,correct,company list without direction
+SV048,neutral,target_mismatch,"headline concerns FIS, not Visa"
+SV049,positive,context_error,recovery 11 days versus 15
+SV050,neutral,correct,movers list without direction
+SV051,negative,finance_lexicon_gap,possible halt to arms sales
+SV052,neutral,target_mismatch,"headline recommends ITT, not GE"
+SV053,neutral,correct,dividend report without direction
+SV054,neutral,target_mismatch,headline concerns Cleveland-Cliffs
+SV055,positive,finance_lexicon_gap,investor purchase of AMT
+SV056,positive,finance_lexicon_gap,REIT strategy made more money
+SV057,neutral,target_mismatch,ETF headline; AMD not mentioned
+SV058,neutral,ambiguous,mixed make-or-break framing
+SV059,neutral,target_mismatch,"headline concerns FirstEnergy, not DUK"
+SV060,neutral,target_mismatch,"headline concerns Equitrans, not NEE"

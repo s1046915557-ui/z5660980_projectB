@@ -1,0 +1,31 @@
+sample_id,sample_stratum,date,trading_date,ticker,sector,text_raw,vader_compound,vader_class,vader_neg,vader_neu,vader_pos
+SH001,negative,2022-01-04,2022-01-04,T,Comm,"U.S. outlines deal with AT&T, Verizon over 5G delay - letter",-0.3182,negative,0.204,0.796,0.0
+SH002,negative,2023-06-29,2023-06-29,KO,Consumer,EXCLUSIVE-WHO's cancer research agency to say aspartame sweetener a possible carcinogen-sources,-0.6597,negative,0.328,0.672,0.0
+SH003,negative,2020-03-02,2020-03-02,SLB,Energy,"Shares of several oil companies are trading lower amid the global coronavirus outlook, which has hampered the outlook for oil demand and pressured prices.",-0.34,negative,0.201,0.719,0.079
+SH004,negative,2023-05-16,2023-05-16,WFC,Financials,Wells Fargo reaches $1 bln settlement with shareholders over recovery from scandals,-0.25,negative,0.208,0.584,0.208
+SH005,negative,2020-04-27,2020-04-27,MRK,Healthcare,Positive Cancer Trial Results Offset a COVID-19 Flop for Regeneron and Sanofi,-0.4939,negative,0.37,0.435,0.196
+SH006,negative,2023-02-09,2023-02-09,GE,Industrials,Fmr Cuts Stake in General Electric (GE),-0.296,negative,0.268,0.732,0.0
+SH007,negative,2023-05-15,2023-05-15,DD,Materials,Fire protection company Kidde-Fenwal files for bankruptcy citing PFAS lawsuits,-0.4588,negative,0.333,0.667,0.0
+SH008,negative,2022-07-15,2022-07-15,O,RealEstate,Could 11.5%-Yielding Global Net Lease Be in Trouble?,-0.4019,negative,0.278,0.722,0.0
+SH009,negative,2022-09-15,2022-09-15,ADBE,Tech,"US STOCKS-Wall St slides amid Fed tightening worries, economic warnings",-0.6124,negative,0.385,0.615,0.0
+SH010,negative,2021-02-03,2021-02-03,NEE,Utilities,3 Solar Stocks Combating Seasonal Affective Disorder,-0.4019,negative,0.351,0.649,0.0
+SH011,positive,2021-05-24,2021-05-24,EA,Comm,Forget Dogecoin: Buy These 2 Top Growth Stocks Instead,0.3612,positive,0.168,0.442,0.389
+SH012,positive,2022-06-06,2022-06-06,WMT,Consumer,A Bullish Reversal Stokes Optimism,0.5423,positive,0.0,0.462,0.538
+SH013,positive,2022-11-16,2022-11-16,OXY,Energy,2 Hot Growth Stocks That Can Continue to Soar in 2023,0.3818,positive,0.0,0.776,0.224
+SH014,positive,2020-09-23,2020-09-23,USB,Financials,Better Buy: Bank of America vs. US Bancorp,0.4404,positive,0.0,0.707,0.293
+SH015,positive,2021-10-27,2021-10-27,MRK,Healthcare,"Health Care Sector Update for 10/27/2021: PHAT,TAK,CRTX,ALKS,MRK",0.4939,positive,0.0,0.652,0.348
+SH016,positive,2021-12-13,2021-12-13,MMM,Industrials,Investors push world's top chemicals companies over hazardous substances,0.2023,positive,0.0,0.816,0.184
+SH017,positive,2020-02-26,2020-02-26,DD,Materials,"Top Stock Reports for Tesla, Enbridge & DuPont de Nemours",0.2023,positive,0.0,0.816,0.184
+SH018,positive,2021-08-18,2021-08-18,PSA,RealEstate,"Trade Alert: The Senior VP Of Public Storage (NYSE:PSA), Nathaniel Vitan, Has Sold Some Shares Recently",0.5267,positive,0.0,0.761,0.239
+SH019,positive,2023-07-24,2023-07-24,NVDA,Tech,Nasdaq 100 Rebalance Not Hurting Futures,0.3089,positive,0.0,0.689,0.311
+SH020,positive,2023-05-05,2023-05-05,D,Utilities,Dominion Energy (D) Q1 Earnings & Revenues Beat Estimates,0.2732,positive,0.0,0.769,0.231
+SH021,zero_score,2022-05-03,2022-05-03,T,Comm,"Pre-Market Earnings Report for May 4, 2022 : CVS, REGN, MAR, MRNA, EMR, JCI, GOLD, RACE, IDXX, LNG, YUM, TT",0.0,neutral,0.0,1.0,0.0
+SH022,zero_score,2020-09-04,2020-09-04,NKE,Consumer,Could adidas Be a Millionaire Maker Stock?,0.0,neutral,0.0,1.0,0.0
+SH023,zero_score,2021-10-26,2021-10-26,XOM,Energy,"Notable Tuesday Option Activity: CHRW, LL, XOM",0.0,neutral,0.0,1.0,0.0
+SH024,zero_score,2021-04-06,2021-04-06,GS,Financials,"Dow Movers: IBM, GS",0.0,neutral,0.0,1.0,0.0
+SH025,zero_score,2020-04-08,2020-04-08,ABBV,Healthcare,"The Zacks Analyst Blog Highlights: Procter & Gamble, AbbVie, QUALCOMM, PepsiCo and CME Group",0.0,neutral,0.0,1.0,0.0
+SH026,zero_score,2020-04-15,2020-04-15,MMM,Industrials,"2 Pros, 2 Cons for Investing in Moderna as It Develops Coronavirus Vaccine",0.0,neutral,0.0,1.0,0.0
+SH027,zero_score,2020-01-17,2020-01-17,DOW,Materials,US Indexes Close Higher Friday and for the Jan. –7 Week,0.0,neutral,0.0,1.0,0.0
+SH028,zero_score,2022-08-12,2022-08-12,O,RealEstate,7 Monthly Dividend Stocks to Buy for Reliable Income,0.0,neutral,0.0,1.0,0.0
+SH029,zero_score,2021-05-19,2021-05-19,INTC,Tech,Is Apple Preparing Redesigned MacBook Pros?,0.0,neutral,0.0,1.0,0.0
+SH030,zero_score,2021-02-24,2021-02-24,NEE,Utilities,"IEF, ECLN: Big ETF Inflows",0.0,neutral,0.0,1.0,0.0
